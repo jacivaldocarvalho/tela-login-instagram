@@ -1,13 +1,10 @@
 # PROJETO DA TELA DE LOGIN DO INSTAGRAM
 ### Desafio do bootcamp Spread Fullstack Developer
-##
 
 ## Objetivo
-##
 Esse repositório traz uma tela de login com base na tela inicial do [Instagram].
 
 ## Metodologia
-##
 Esse projeto Front-End foi construido através do modelo de layout FlexBox para obter um site responsivo utilizando as linguagens HTML3 e CSS3.
 
 ## Tecnologias relacionadas
