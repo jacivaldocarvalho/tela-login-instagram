@@ -104,7 +104,7 @@ Sempre aberto a novas conexões e oportunidades de aprendizado!
 
 ## **Licença**
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [GPL-3.0 license](LICENSE).
 
 ## **Referências Bibliográficas**
 
