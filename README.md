@@ -22,13 +22,14 @@ Este repositório contém a implementação de uma tela de login inspirada na te
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block; vertical-align: middle; margin-right: 10px;">
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <span style="vertical-align: middle; font-size: 16px; margin-left: 5px;">HTML5</span>
 </div>
-
-- **HTML5**
-- **CSS3** (usando Flexbox para criar o layout responsivo)
+<div style="display: inline-block; vertical-align: middle;">
+    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <span style="vertical-align: middle; font-size: 16px; margin-left: 5px;">CSS3 (usando Flexbox para criar o layout responsivo)</span>
+</div>
 
 ## **Metodologia**
 
